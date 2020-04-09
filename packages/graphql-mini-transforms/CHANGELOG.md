@@ -5,6 +5,10 @@ and from `v0.14.0`, this project adheres to [Semantic Versioning](http://semver.
 
 <!-- ## [Unreleased] -->
 
+### Changed
+
+- Upgrade fs-extra to v9 [[#105](https://github.com/Shopify/graphql-tools-web/pull/105)]
+
 ## [1.0.3] - 2019-04-29
 
 - Fixed issues with the Jest loader ([#81](https://github.com/Shopify/graphql-tools-web/pull/81))
