@@ -40,7 +40,7 @@
     "release": "lerna publish && git push --follow-tags"
   },
   "devDependencies": {
-    "@types/fs-extra": "^5.0.2",
+    "@types/fs-extra": "^8.1.0",
     "@types/glob": "^5.0.35",
     "@types/graphql": "^14.0.0",
     "@types/jest": "^24.0.11",
